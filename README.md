@@ -17,7 +17,7 @@
 ![image](img/3.gif)
 
 # Google map location: 
-![image](img/3.gif)
+![image](img/4.gif)
 
 # Contact form: 
 ![image](img/5.gif)
